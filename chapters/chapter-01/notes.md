@@ -1,5 +1,8 @@
 # Chapter 01
 
 
+## :page_facing_up: Notes
 
-## :page_facing_up: Chapter Notes
+## :pencil: Exercises
+
+## :books: Other resources
